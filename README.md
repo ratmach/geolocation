@@ -1,0 +1,2 @@
+# geolocation
+Firefox Geolocation
